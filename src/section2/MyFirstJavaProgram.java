@@ -13,7 +13,7 @@ public class MyFirstJavaProgram {
 		arnold.setSpeed(90);
 		arnold.setPenWidth(40);
 		arnold.sparkle();
-		arnold.arnold.setRandomPenColor();
+		//arnold.setRandomPenColor();
 		arnold.penDown();
 		arnold.move(100);
 		arnold.turn(90);
